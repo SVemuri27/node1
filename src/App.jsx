@@ -7,7 +7,7 @@ function App() {
     <>
 
       <div>
-        hlo jwalitha
+        hlo 
       </div>
     </>
   )
